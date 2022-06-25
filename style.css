@@ -1,0 +1,36 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+    background-color: blue;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 7px;
+}
+.heading h3{
+    display: inline;
+    font-size: 22px;
+}
+.heading button{
+    float: right;
+    border: 1px solid black;
+}
+.footer{
+    background-color: red;
+    width: 100%;
+    margin-bottom: 0px;
+    color: white;
+    line-height: 3;
+    bottom: 0px;
+    position: sticky;
+}
+.modal-body{
+    text-align: left;
+}
+canvas{
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px green;
+    border: 2px solid green;
+}
